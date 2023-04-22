@@ -1,0 +1,18 @@
+<table>
+    <tr>
+        <th>Airline</th>
+        <th>Flight</th>
+        <th>{{type === "arrival" ? "City" : "Departure"}}</th>
+        <th>{{type === "arrival" ? "Origin" : "Destination"}}</th>
+        <th class="centered">Gate</th>
+        <th>Status</th>
+    </tr>
+    <tr *ngFor="let flight of flights">
+        <td><img [src]="flight.getImage()" width="100px"/></td>
+        <td class="bold"> {{flight.flightNumber}}</td>
+        <td class="bold">{{type ==="arrival" ? flight.origin : flight.destination}}</td>
+        <td class="bold">{{type === "arrival" ? flight.arrival : flight.departure}}</td>
+        <td class="centered">{{flight.gate}}</td>
+        <td class="bold on-time"[class.delayed]="flight.isDelayed()"[class.cancelled]="flight.isCancelled()"[class.scheduled]="flight.isScheduled()"[class.landed]="flight.isLanded()"[class.active]="flight.isActive()">{{flight.status}}</td>
+    </tr>
+</table>

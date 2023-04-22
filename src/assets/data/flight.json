@@ -1,0 +1,251 @@
+[
+  {
+    "airline": "Spirit Airlines",
+    "flightNumber": "303",
+    "origin": "ACY",
+    "destination": "MCO",
+    "gate": "21",
+    "status": "landed"
+  },
+  {
+    "airline": "JetBlue Airways",
+    "flightNumber": "1126",
+    "origin": "ALB",
+    "destination": "MCO",
+    "gate": "235",
+    "status": "cancelled"
+  },
+  {
+    "airline": "JetBlue Airways",
+    "flightNumber": "119",
+    "origin": "ALB",
+    "destination": "MCO",
+    "gate": "235",
+    "status": "landed"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "406",
+    "origin": "Atlanta (ATL)",
+    "destination": "MCO",
+    "gate": "106",
+    "status": "landed"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "2841",
+    "origin": "BWI",
+    "destination": "MCO",
+    "gate": "108",
+    "status": "landed"
+  },
+  {
+    "airline": "Frontier Airlines",
+    "flightNumber": "1047",
+    "origin": "CLE",
+    "destination": "MCO",
+    "gate": "16",
+    "status": "landed"
+  },
+  {
+    "airline": "United Airlines",
+    "flightNumber": "580",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "48",
+    "status": "active "
+  },
+  {
+    "airline": "Delta",
+    "flightNumber": "1269",
+    "origin": "MCO",
+    "destination": "MSP",
+    "gate": "83",
+    "status": "scheduled"
+  },
+  {
+    "airline": "Delta",
+    "flightNumber": "1717",
+    "origin": "MCO",
+    "destination": "MSP",
+    "gate": "73",
+    "status": "scheduled"
+  },
+  {
+    "airline": "Spirit Airlines",
+    "flightNumber": "1266",
+    "origin": "MCO",
+    "destination": "MSY",
+    "gate": "4",
+    "status": "scheduled"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "1958",
+    "origin": "MCO",
+    "destination": "MSY",
+    "gate": "102",
+    "status": "active"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "2841",
+    "origin": "MCO",
+    "destination": "MSY",
+    "gate": "108",
+    "status": "active"
+  },
+  {
+    "airline": "Spirit Airlines",
+    "flightNumber": "2083",
+    "origin": "MCO",
+    "destination": "MYR",
+    "gate": "4",
+    "status": "scheduled"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "1787",
+    "origin": "MCO",
+    "destination": "OKC",
+    "gate": "110",
+    "status": "scheduled"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "2303",
+    "origin": "MCO",
+    "destination": "OMA",
+    "gate": "103",
+    "status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "flightNumber": "1960",
+    "origin": "MCO",
+    "destination": "ORD",
+    "gate": "42",
+    "status": "active"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "2385",
+    "origin": "MCO",
+    "destination": "ORD",
+    "gate": "127",
+    "status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "flightNumber": "2421",
+    "origin": "MCO",
+    "destination": "ORD",
+    "gate": "42",
+    "status": "active"
+  },
+  {
+    "airline": "American Airlines",
+    "flightNumber": "2721",
+    "origin": "MCO",
+    "destination": "ORD",
+    "gate": "36",
+    "status": "active"
+  },
+  {
+    "airline": "Frontier Airlines",
+    "flightNumber": "F944",
+    "origin": "MCO",
+    "destination": "ORD",
+    "gate": "10",
+    "status": "active"
+  },
+  {
+    "airline": "American Airlines",
+    "flightNumber": "1647",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "K13",
+    "status": "active"
+  },
+  {
+    "airline": "United Airlines",
+    "flightNumber": "580",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "40",
+    "status": "active"
+  },
+
+  {
+    "airline": "United Airlines",
+    "flightNumber": "1074",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "40",
+    "status": "landed"
+  },
+  {
+    "airline": "Spirit Airlines",
+    "flightNumber": "2057",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "1",
+    "status": "landed"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "flightNumber": "1161",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "124",
+    "status": "scheduled"
+  },
+  {
+    "airline": "American Airlines",
+    "flightNumber": "187",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "53",
+    "status": "scheduled"
+  },
+  {
+    "airline": "United Airlines",
+    "flightNumber": "2340",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "40",
+    "status": "scheduled"
+  },
+  {
+    "airline": "United Airlines",
+    "flightNumber": "2429",
+    "origin": "ORD",
+    "destination": "MCO",
+    "gate": "40",
+    "status": "scheduled"
+  },
+  {
+    "airline": "Spirit Airlines",
+    "flightNumber": "3050",
+    "origin": "ORF",
+    "destination": "MCO",
+    "gate": "9",
+    "status": "active"
+  },
+  {
+    "airline": "Frontier Airlines",
+    "flightNumber": "1169",
+    "origin": "PHL",
+    "destination": "MCO",
+    "gate": "15",
+    "status": "on time"
+  },
+  {
+    "airline": "American Airlines",
+    "flightNumber": "1624",
+    "origin": "PHL",
+    "destination": "MCO",
+    "gate": "55",
+    "status": "active"
+  }
+]
